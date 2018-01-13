@@ -1,1 +1,2 @@
-# bom
+# Bom-Ndasmu
+git clone it <br> cd (direktori) <br> chmod +x start <br> ./start
